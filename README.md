@@ -2,6 +2,7 @@
 
 1. Overview of Key Metrics
 The Maven Market dashboard provides a detailed analysis of customer demographics, revenue trends, and brand performance, offering insights into consumer behaviour and business growth.
+
 ![Image](https://github.com/user-attachments/assets/9cde8da6-2b88-4fbb-addd-e374ee56a357)
 
 Below are the key findings:
