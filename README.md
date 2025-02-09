@@ -47,15 +47,15 @@ Brand with Lowest Return Rate: Best Choice (0.84%)
 
 4. Financial Performance
 
-Total Monthly Revenue: $469.62K, reaching approximately 50% of the target ($939.2K).
+Total Monthly Revenue: $469.62K, reaching approximately 50% of the target ($939.2K):
 
 ![Image](https://github.com/user-attachments/assets/b35129b0-1717-4e95-b915-a2e7b44b8e88)
 
-Total Monthly Profit: $281.63K, achieving 50% of the profit target ($563.3K).
+Total Monthly Profit: $281.63K, achieving 50% of the profit target ($563.3K):
 
 ![Image](https://github.com/user-attachments/assets/81bf62ce-f554-49d9-8a4d-90dfc0ce3ed7)
 
-Profit Trend: Strong growth from late 1997 onwards, with consistent upward movement.
+Profit Trend: Strong growth from late 1997 onwards, with consistent upward movement:
 
 ![Image](https://github.com/user-attachments/assets/478f7ef6-7a68-46db-879b-4bc458d45c75)
 
